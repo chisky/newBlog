@@ -1,7 +1,7 @@
 #博客
-线上地址:[http://beginman.sinaapp.com/](http://beginman.sinaapp.com/)
+线上地址:[http://readingclub.applinzi.com/](http://readingclub.applinzi.com/)
 
-一个django开发的博客.网址[http://beginman.sinaapp.com/](http://beginman.sinaapp.com/).  ||  [Github](https://github.com/BeginMan/newBlog)
+ [Github](https://github.com/chisky/newBlog)
 
 搭建在新浪SAE上，Clone一份改改setting里面就能运行本地，上传新浪sae上同步数据库里面就能在线展示。所有需要的第三方库都在site-packages文件夹中，可以将此内容copy到本地环境site-packages中，就可以用了。
 
